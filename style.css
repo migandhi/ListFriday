@@ -1,0 +1,17 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+h1 {
+    color: #333;
+}
+
+#fridays-list {
+    margin-top: 20px;
+    line-height: 1.6;
+}
+
+#fridays-list br {
+    margin-bottom: 5px;
+}
